@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, meu nome<br>  é Francisco Sousa</h1>  
+<h1 align="center">Olá, meu nome<br>  é Francisco Sousa</h1>  
 <h4 align="center">Desenvolvedor Front End | JavaScript - Node - React.JS & PostgreSQL | Transformação Digital & Metodologia Ágil - Scrum</h4>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=fsousa-hub" alt="fsousa-hub" /></p>
   
